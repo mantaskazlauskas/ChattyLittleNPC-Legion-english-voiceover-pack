@@ -1,6 +1,8 @@
-package-as: ChattyLittleNpc_Legion_voiceovers
+package-as: ChattyLittleNpc_Legion_enUS_voiceovers
 ignore:
   - release.py
+  - deploy.py
+  - generate_voiceovers_list.py
   - README.md
   - .vscode
   - .github

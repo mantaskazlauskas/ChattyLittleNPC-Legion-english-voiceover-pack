@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_Legion_voiceovers
-local ChattyLittleNpc_Legion_voiceovers = _G["ChattyLittleNpc_Legion_voiceovers"]
+---@class ChattyLittleNpc_Legion_enUS_voiceovers
+local ChattyLittleNpc_Legion_enUS_voiceovers = _G["ChattyLittleNpc_Legion_enUS_voiceovers"]
 
-ChattyLittleNpc_Legion_voiceovers.Voiceovers = {
+ChattyLittleNpc_Legion_enUS_voiceovers.Voiceovers = {
     '100017_Gossip_4eeb5d2e7b3279f79df6aebe1778bfcc_Male.ogg',
     '100171_Gossip_7b078d26ddc67443cf85c49f7c28fb8f_Male.ogg',
     '100171_Gossip_b8a0fdb233c56b56eac358c3f1259247_Male.ogg',
@@ -10560,7 +10560,7 @@ ChattyLittleNpc_Legion_voiceovers.Voiceovers = {
     '99986_Gossip_e359d67c47b2808d4665fa434e87a162_Female.ogg',
 }
 
-ChattyLittleNpc_Legion_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_Legion_enUS_voiceovers.VoiceoverDurations = {
     ["100017_Gossip_4eeb5d2e7b3279f79df6aebe1778bfcc_Male.ogg"] = 4.88,
     ["100171_Gossip_7b078d26ddc67443cf85c49f7c28fb8f_Male.ogg"] = 19.34,
     ["100171_Gossip_b8a0fdb233c56b56eac358c3f1259247_Male.ogg"] = 6.72,

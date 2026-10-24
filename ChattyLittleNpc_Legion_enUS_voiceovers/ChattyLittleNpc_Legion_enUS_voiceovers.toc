@@ -1,5 +1,5 @@
 ## Interface: 120105, 120100, 120007
-## Title: Chatty Little NPC: Legion
+## Title: Chatty Little NPC: Legion voiceovers (enUS)
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
 ## Version: 3.1.6
